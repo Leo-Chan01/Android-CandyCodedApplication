@@ -12,7 +12,6 @@
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602264776788</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated the code to start the Store Information Activity">
+      <created>1602269374329</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602269374329</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -194,14 +200,14 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="529" y="272" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1602232731534" />
-    <state x="192" y="0" key="CommitChangelistDialog2" timestamp="1602264764076">
+    <state x="192" y="0" key="CommitChangelistDialog2" timestamp="1602269366425">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="192" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602264764076" />
-    <state x="129" y="58" key="DiffContextDialog" timestamp="1602264744423">
+    <state x="192" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602269366425" />
+    <state x="129" y="58" key="DiffContextDialog" timestamp="1602269349802">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="129" y="58" key="DiffContextDialog/0.0.1366.768@0.0.1366.768" timestamp="1602264744423" />
+    <state x="129" y="58" key="DiffContextDialog/0.0.1366.768@0.0.1366.768" timestamp="1602269349802" />
     <state width="662" height="384" key="GridCell.Tab.0.bottom" timestamp="1602263579410">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -218,10 +224,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="662" height="384" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1602263579402" />
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1602265788668">
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1602269400097">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602265788668" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602269400097" />
     <state x="721" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1602263832110">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
